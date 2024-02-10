@@ -1,7 +1,6 @@
 # Fouées du Terroir
 
-Bienvenue sur le repository GitHub du projet "Fouées du Terroir" ! Cette application web a été créée dans le cadre d'un projet de développement web, nous étions 4 à développer cette application. Elle offre une expérience unique centrée sur les fouées, une spécialité gastronomique de l'ouest de la France.
-
+Bienvenue sur le dépôt GitHub du projet "Fouées du Terroir" ! Ce projet de développement web a été élaboré en collaboration par une équipe de quatre développeurs, dont je fais partie. L'application offre une expérience unique axée sur les fouées, une spécialité gastronomique de l'ouest de la France que nous sommes ravis de présenter.
 Cette application est appelée “Fouées du Terroir”.
 
 Lien de l'application : [Fouées du Terroir](https://rtiphonet.fr/foodtruck/accueil.php)
